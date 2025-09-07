@@ -1,4 +1,4 @@
-Based on the exam questions you provided, here are study notes covering the key concepts. 📝
+
 
 ### **Multimedia and Its Applications**
 

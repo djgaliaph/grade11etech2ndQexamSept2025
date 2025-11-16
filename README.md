@@ -8,6 +8,7 @@ Multimedia is the **integration of text, sound, graphics, animation, and video**
 * **Entertainment**: This is one of the most popular uses of multimedia, with **movies and video games** being key examples. The concept of **edutainment**, which merges education and entertainment, is also a significant application.
 * **Business**: Multimedia is essential for business communication and promotion. **E-commerce websites** facilitate transactions between businesses and consumers (B2B) and between businesses and other businesses (B2C).
 * **Video on Demand (VOD)**: This system allows users to select and watch video and audio content whenever they want, a core application of multimedia.
+** Public Access of Information**
 
 ***
 
